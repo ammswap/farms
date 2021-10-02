@@ -1,23 +1,22 @@
 {
-    "name": "@apeswapfinance/yields",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "files": [
-      "config"
-    ],
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ApeSwapFinance/apeswap-yields.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/ApeSwapFinance/apeswap-yields/issues"
-    },
-    "homepage": "https://github.com/ApeSwapFinance/apeswap-yields#readme"
-  }
-  
+  "name": "@ammswap/farms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ammswap/farms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ammswap/farms/issues"
+  },
+  "homepage": "https://github.com/ammswap/farms#readme"
+}
