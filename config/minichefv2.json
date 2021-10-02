@@ -1,0 +1,148 @@
+[
+  {
+    "accRewardPerShare": "16025405072936",
+    "allocPoint": "10",
+    "id": "1",
+    "lastRewardTime": "1633171271",
+    "masterChef": {
+      "id": "0x2b64d24a180b4247F765FFA832113473Fb938237",
+      "rewardPerSecond": "10000000000000000000",
+      "totalAllocPoint": "114"
+    },
+    "pair": {
+      "id": "0x2cBABbbE26bEccD09BdBb13e8600c855110666E1",
+      "reserve0": "633834.256113368798627981",
+      "reserve1": "500.884283878683651013",
+      "reserveETH": "2664160.951919636850816372967025499",
+      "reserveUSD": "8759889820.428400504168701845332403",
+      "timestamp": "1620775784",
+      "token0": {
+        "derivedETH": "2.101622724098332706725610820954406",
+        "id": "0x37f14e7c2fadc2a01dbd93b8a1f69d41c6c3d554",
+        "name": "Swivel Token",
+        "symbol": "SVL",
+        "totalSupply": "19376"
+      },
+      "token0Price": "1265.430512622923917325667073017268",
+      "token1": {
+        "derivedETH": "2659.4575377361680035823139766049",
+        "id": "0x12017c89444624c0268a1053467e22954f4fd362",
+        "name": "Swivel USD",
+        "symbol": "SUSD",
+        "totalSupply": "20632"
+      },
+      "token1Price": "0.0007902448929631448270537634597791576",
+      "totalSupply": "17146.941684586358391157",
+      "trackedReserveETH": "2664160.951919636850816372967025499",
+      "txCount": "164921",
+      "untrackedVolumeUSD": "166245225963.8044271714258902842783",
+      "volumeUSD": "166246009973.7383305419785350947488",
+      "decimals": 18,
+      "type": 0
+    },
+    "slpBalance": "15773007210087860366545",
+    "chef": 1,
+    "owner": {
+      "id": "0x0769fd68dfb93167989c6f7254cd0d766fb2841f",
+      "rewardPerSecond": "10000000000000000000",
+      "totalAllocPoint": "114"
+    },
+    "balance": 15773.007210087859,
+    "feeApyPerHour": null,
+    "feeApyPerDay": null,
+    "feeApyPerMonth": null,
+    "feeApyPerYear": null,
+    "rewardAprPerHour": 0.0000019158380463419816,
+    "rewardAprPerDay": 0.00004598011311220756,
+    "rewardAprPerMonth": 0.0013794033933662267,
+    "rewardAprPerYear": 0.016552840720394722,
+    "roiPerBlock": 1.2319902992449132e-9,
+    "roiPerHour": null,
+    "roiPerDay": null,
+    "roiPerMonth": null,
+    "roiPerYear": null,
+    "rewards": [
+      {
+        "token": "SVL",
+        "icon": "https://useswivel.com/images/svl-128.png",
+        "rewardPerBlock": 0.0029863499999999996,
+        "rewardPerDay": 111.456,
+        "rewardPrice": 10.709095561992614
+      }
+    ],
+    "tvl": 8057985373.648018
+  },
+  {
+    "accRewardPerShare": "16025405072936",
+    "allocPoint": "4",
+    "id": "2",
+    "lastRewardTime": "1633171271",
+    "masterChef": {
+      "id": "0x2b64d24a180b4247F765FFA832113473Fb938237",
+      "rewardPerSecond": "10000000000000000000",
+      "totalAllocPoint": "114"
+    },
+    "pair": {
+      "id": "0x2cBABbbE26bEccD09BdBb13e8600c855110666E1",
+      "reserve0": "633834.256113368798627981",
+      "reserve1": "500.884283878683651013",
+      "reserveETH": "2664160.951919636850816372967025499",
+      "reserveUSD": "8759889820.428400504168701845332403",
+      "timestamp": "1620775784",
+      "token0": {
+        "derivedETH": "1.00000000000000000000000000000000",
+        "id": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "name": "Swivel Token",
+        "symbol": "SVL",
+        "totalSupply": "19376"
+      },
+      "token0Price": "1265.430512622923917325667073017268",
+      "token1": {
+        "derivedETH": "2659.4575377361680035823139766049",
+        "id": "0x12017c89444624c0268a1053467e22954f4fd362",
+        "name": "Swivel USD",
+        "symbol": "SUSD",
+        "totalSupply": "20632"
+      },
+      "token1Price": "0.0007902448929631448270537634597791576",
+      "totalSupply": "17146.941684586358391157",
+      "trackedReserveETH": "2664160.951919636850816372967025499",
+      "txCount": "164921",
+      "untrackedVolumeUSD": "166245225963.8044271714258902842783",
+      "volumeUSD": "166246009973.7383305419785350947488",
+      "decimals": 18,
+      "type": 0
+    },
+    "slpBalance": "15773007210087860366545",
+    "chef": 1,
+    "owner": {
+      "id": "0x0769fd68dfb93167989c6f7254cd0d766fb2841f",
+      "rewardPerSecond": "10000000000000000000",
+      "totalAllocPoint": "114"
+    },
+    "balance": 15773.007210087859,
+    "feeApyPerHour": null,
+    "feeApyPerDay": null,
+    "feeApyPerMonth": null,
+    "feeApyPerYear": null,
+    "rewardAprPerHour": 0.0000019158380463419816,
+    "rewardAprPerDay": 0.00004598011311220756,
+    "rewardAprPerMonth": 0.0013794033933662267,
+    "rewardAprPerYear": 0.016552840720394722,
+    "roiPerBlock": 1.2319902992449132e-9,
+    "roiPerHour": null,
+    "roiPerDay": null,
+    "roiPerMonth": null,
+    "roiPerYear": null,
+    "rewards": [
+      {
+        "token": "SVL",
+        "icon": "https://useswivel.com/images/svl-128.png",
+        "rewardPerBlock": 0.0029863499999999996,
+        "rewardPerDay": 111.456,
+        "rewardPrice": 10.709095561992614
+      }
+    ],
+    "tvl": 8057985373.648018
+  }
+]

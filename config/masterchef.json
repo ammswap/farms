@@ -9,7 +9,7 @@
           "rewardPerBlock": "10000000000000000000",
           "totalAllocPoint": "114"
         },
-        "pair": "0x2cBABbbE26bEccD09BdBb13e8600c855110666E1"
+        "pair": "0x2cBABbbE26bEccD09BdBb13e8600c855110666E1",
       },
       {
         "allocPoint": "4",
